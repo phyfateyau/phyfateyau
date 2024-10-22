@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phyfateyau
+- 👋 Hi, I’m @zjin73
 - 👀 I’m interested in AI theory and applied Technology like Digital Twin and Robotics 
 - 🌱 I’m currently learning CV/ML and Manipulator in NUAA-Nanjing
 - 💞️ I’m looking to collaborate on ...
